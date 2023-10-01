@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1a1f430f.css",
+    "main.js": "/static/js/main.f8422c11.js",
+    "static/js/787.c1112931.chunk.js": "/static/js/787.c1112931.chunk.js",
+    "static/media/RobotoSlab-VariableFont_wght.ttf": "/static/media/RobotoSlab-VariableFont_wght.24c71ebd53c3ed50accb.ttf",
+    "static/media/CantoraOne-Regular.ttf": "/static/media/CantoraOne-Regular.f84bc3b6d3e59afa41b6.ttf",
+    "index.html": "/index.html",
+    "main.1a1f430f.css.map": "/static/css/main.1a1f430f.css.map",
+    "main.f8422c11.js.map": "/static/js/main.f8422c11.js.map",
+    "787.c1112931.chunk.js.map": "/static/js/787.c1112931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a1f430f.css",
+    "static/js/main.f8422c11.js"
+  ]
+}
